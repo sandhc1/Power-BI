@@ -1,1 +1,1 @@
-
+Walmart is the largest company in the world. As a result, the company has trillions of data transactions. Finding a way to democratize data and make it available for end-users is a massive challenge. The finance department has used Power BI as a key part of their solution.
